@@ -1,6 +1,7 @@
 require 'zk'
 require 'json'
-require 'trollop'
+require 'optimist'
+require 'pp'
 require 'retryable'
 require 'highline/import'
 require 'colored'
